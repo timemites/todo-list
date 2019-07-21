@@ -11,10 +11,11 @@ const AddTodo = ({ dispatch }) => {
     }
   };
   return (
+    
     <form className="todoInput">
       <input className="input" type="text" ref={node => (input = node)} 
         placeholder="Add an item"/>
-      <button type="submit" onClick={onClick}>
+      <button type="submit" onClick={onClick} className="todo-submit">
         Add
       </button>
       </form>
