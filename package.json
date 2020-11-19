@@ -37,6 +37,6 @@
     "enzyme": "^3.10.0",
     "react-test-renderer": "^16.8.6",
     "selenium-standalone": "^6.16.0",
-    "webdriverio": "^5.11.6"
+    "webdriverio": "^6.9.0"
   }
 }
