@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/node": "^12.6.8",
+    "@types/node": "^16.4.7",
     "enzyme-adapter-react-16": "^1.14.0",
     "posix-character-classes": "^1.0.0",
     "react": "^16.8.6",
